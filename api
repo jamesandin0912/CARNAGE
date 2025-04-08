@@ -1,1 +1,4 @@
-yeah go fuck yourself
+while true do
+  print("yeah go fuck yourself")
+  wait(1)
+end
