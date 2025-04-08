@@ -1,0 +1,4 @@
+while true do
+  print("woahhh you just crashed a server woooo so cool wooahhhhhhhhhhhh")
+  wait(1)
+end
